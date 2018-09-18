@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: darkgoldenrod;
+}
+.display-4 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.lead {
+    margin: 0 auto;
+}
+
+.tbody {
+    margin-bottom: 50%;
+}
+
+.table {
+    margin-bottom: 3%;
+}
